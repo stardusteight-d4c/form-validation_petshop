@@ -14,6 +14,10 @@
 <li> How to make a request to the ViaCEP API;
 <li> Fill in other form fields with ViaCEP API response;
 <li> How to add currency mask to price field.
+
+## Hypertext References
+<a href="https://stardusteight-d4c.github.io/form-validation_petshop/">Formulário</a><br>
+<a href="https://stardusteight-d4c.github.io/form-validation_petshop/cadastro_produto">Cadastro de Produto</a>
   
 When fetching the location information from the ViaCEP API we call the fetch() function passing two properties. 
 One of them is the url that says where we should make the request and another property that is an object with options:
